@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Artist/Musician/Deep-Learner
 ----------------------------
 
-I just started learning to code this year and have been enjoying web development. There will be an update here at some point as I progress, so stay tuned!
+I just started learning to code and have been enjoying web development. There will be an update here at some point as I progress, so stay tuned!
 
 *   🌍  I'm based in Washington
 *   🧠  I'm learning ZTM-Web Development & Harvard CS50G
